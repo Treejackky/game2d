@@ -1,0 +1,107 @@
+
+images.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+enemies
+  rotate: false
+  xy: 1924, 1277
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+laserBlue03
+  rotate: false
+  xy: 2, 2
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+laserRed03
+  rotate: false
+  xy: 1924, 1238
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 147, 195
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 272
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 2, 41
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 2, 151
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+
+images2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+people
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+images3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+skygrass
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+images4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+sun
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+images5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+sky
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
